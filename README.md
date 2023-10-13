@@ -9,7 +9,7 @@ Podatki v datoteki o intervalih so v obliki:
 
 celotna_dolzina st_postaj
 
-prva_postaja radij_prve_postaje
+lokacija_prve_postaje radij_prve_postaje
 druga...
 .
 .
