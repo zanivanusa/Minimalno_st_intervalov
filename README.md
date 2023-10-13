@@ -6,12 +6,13 @@ Vprašanje je, koliko je največje stevilo postaj, ki jih lahko odstranimo, da b
 ## Uporaba
 zaženemo aplikacijo preko CMD in kot drugi argument damo datoteko s podatki o intervalih.
 Podatki v datoteki o intervalih so v obliki: 
-celotna_dolzina st_postaj-
+
+celotna_dolzina st_postaj
+
 prva_postaja radij_prve_postaje
+druga...
 .
 .
-.
-primer
 
 ![image](https://github.com/zanivanusa/bencinskaPostaja/assets/60394411/f8a3016b-84c7-4205-96e0-cdce7279125d)
 
