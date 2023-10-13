@@ -1,7 +1,7 @@
-# Minimalno število bencinskih postaj
+# Minimalno število postaj
 
 ## Opis
-Vprašanje je, koliko je največje stevilo postaj, ki jih lahko odstranimo, da bomo celo pot še vedno znotraj radija vsaj ene postaje.
+Vprašanje je, koliko je največje stevilo postaj oz. intervalov, ki jih lahko odstranimo, da bomo celo pot še vedno znotraj radija vsaj ene postaje.
 
 ## Uporaba
 zaženemo aplikacijo preko CMD in kot drugi argument damo datoteko s podatki o intervalih.
