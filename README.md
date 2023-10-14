@@ -14,7 +14,8 @@ druga...
 .
 .
 
-![image](https://github.com/zanivanusa/bencinskaPostaja/assets/60394411/f8a3016b-84c7-4205-96e0-cdce7279125d)
+![image](https://github.com/zanivanusa/Minimalno_st_intervalov/assets/60394411/656f3a7d-0a09-40a9-9b1c-e18bdfe7e23a)
+
 
 v tem primeru je celotna dolžina 40 enot, postaje pa so 3.
 prva postaja je na lokaciji 5 in ima radius velikosti 5, torej pokrije območje od 0-10.
@@ -24,7 +25,7 @@ torej so celotna pot (0-40) pokrita in ne moramo odstranit nobene postaje.
 
 V tem naslednjem primeru pa lahko odstranimo kar dve:
 
-![image](https://github.com/zanivanusa/bencinskaPostaja/assets/60394411/bab3e5e2-de1b-41d7-8dad-e2359c92d9d4)
+![image](https://github.com/zanivanusa/Minimalno_st_intervalov/assets/60394411/eaae0666-a76f-4038-9822-56ef0390e845)
 
 In sicer postajo 11 8 in 30 3, saj nista obvezni, oz. enako območje pokriva druga postaja, katera je obvezna(njenega območja ne pokriva nobena validna postaja)
 
